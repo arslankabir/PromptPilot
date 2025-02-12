@@ -83,12 +83,16 @@ This is a comprehensive dashboard application designed for managing referral cam
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**ALL RIGHTS RESERVED**
+
+This project is the exclusive property of the copyright holders. No permission is granted to use, copy, modify, distribute, or showcase this software for any purpose, whether personal or commercial.
+
+Any unauthorized use is strictly prohibited and will be pursued to the fullest extent of the law. For any permissions or inquiries, please contact the project maintainer.
 
 ## Contact
 
 **Project Maintainer:** Arslan Kabir
-- **Email:** arslan.kabir@example.com
+- **Email:** arsalankabeer333@gmail.com
 - **GitHub:** [@arslankabir](https://github.com/arslankabir)
 
 For support or inquiries, please open an issue on our GitHub repository or contact the project maintainer directly.
