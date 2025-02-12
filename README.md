@@ -82,7 +82,22 @@ This is a comprehensive dashboard application designed for managing referral cam
 5. Create a Pull Request
 
 ## License
-[Specify your project's license]
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-[Your contact or support information]
+
+**Project Maintainer:** Arslan Kabir
+- **Email:** arslan.kabir@example.com
+- **GitHub:** [@arslankabir](https://github.com/arslankabir)
+
+For support or inquiries, please open an issue on our GitHub repository or contact the project maintainer directly.
+
+**Support Channels:**
+- GitHub Issues
+- Email Support
+- Community Discord (coming soon)
+
+---
+
+*Built with ❤️ by the PromptPilot Team*
